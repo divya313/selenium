@@ -1,0 +1,19 @@
+selenium urls
+
+
+http://www.seleniumhq.org/projects/ide/
+ http://www.guru99.com/introduction-selenuim-ide.html
+ http://www.guru99.com/xpath-selenium.html
+http://www.softwaretestinghelp.com/test-automation-frameworks-selenium-tutorial-20/
+http://www.guru99.com/quick-test-professional-qtp-tutorial-34.html
+http://toolsqa.com/selenium-tutorial/
+http://toolsqa.com/selenium-webdriver/testng-tutorial/
+
+manual testing
+https://www.guru99.com/manual-testing.html
+https://www.tutorialspoint.com/software_testing_dictionary/manual_testing.html
+https://www.computerhope.com/issues/ch001002.htm
+
+
+
+https://psc.ap.gov.in/(S(k5okqyx1avpxhfmbc5b23o5f))/UI/GeneralRecruitment2018/FOREST_BEAT_OFFICERS_Application.aspx?Flag=5CpbQE7ahTjii2ndfNZ90vvytVc0VGFY1w8fumgpYOcsyKOBfRGj8OHqUdg9%2fQpukRlrlW%2fRv1sICsDSCDX5fw%3d%3d
